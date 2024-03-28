@@ -6,7 +6,7 @@ Infelizmente devido a um outro projeto que estou desenvolvendo em React-Native s
 
 ```
 Copybase-data-api: NodeJS + Multer
-Copybase-data-view: VueJS + ChartJS
+Copybase-data-view: VueJS + ChartJS + Docker
 ```
 
 Instruções especificas estão dentro dos respectivos projetos
